@@ -1,0 +1,21 @@
+# Privacy Policy
+*Effective Date: September 17, 2025*
+
+This policy explains how [Bot Name] handles user data:
+
+1. **Data Collected**:  
+   - Discord User IDs, Server IDs, and Message IDs (only if required for bot functionality).  
+   - Attendance/role data if your bot is for tracking (customize this to your actual bot).  
+
+2. **Data Storage**:  
+   - Data is stored temporarily/in a database/spreadsheet (specify your storage method).  
+   - We do not sell or share user data with third parties.  
+
+3. **User Rights**:  
+   - You may request removal of your data at any time by contacting us at [Your Email or Support Server Invite].  
+
+4. **Third-Party Services**:  
+   - If using Google Sheets or APIs, their policies also apply.  
+
+5. **Changes**:  
+   - We may update this Privacy Policy. Continued use of the bot means acceptance of changes.
